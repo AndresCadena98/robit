@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "475050435412",
+    "project_id": "imagesia-3f709",
+    "storage_bucket": "imagesia-3f709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475050435412:android:b653787d5ffa69245b9ec1",
+        "android_client_info": {
+          "package_name": "com.example.imagesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475050435412-5os0u7048irps7gh5g2k12sh4fphfhm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxxvG8mdaVmImmGGC1Il9gbgLVL1LXOf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475050435412-5os0u7048irps7gh5g2k12sh4fphfhm9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475050435412-50qr02dpardn4l8k1u8gnoao9cqumbjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imagesia.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
