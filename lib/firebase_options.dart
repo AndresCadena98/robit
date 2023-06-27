@@ -44,8 +44,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB-EKX_GJ5wN0AaIsSn-B-93SQ87bDTOpg',
-    appId: '1:475050435412:web:7e121a6f2d38f7625b9ec1',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '475050435412',
     projectId: 'imagesia-3f709',
     authDomain: 'imagesia-3f709.firebaseapp.com',
@@ -54,16 +54,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBxxvG8mdaVmImmGGC1Il9gbgLVL1LXOf4',
-    appId: '1:475050435412:android:b653787d5ffa69245b9ec1',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '475050435412',
     projectId: 'imagesia-3f709',
     storageBucket: 'imagesia-3f709.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBVIbms_QxdDKXKNXNVa6g5pKneVuMlHrA',
-    appId: '1:475050435412:ios:fcd0a989e434d4565b9ec1',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '475050435412',
     projectId: 'imagesia-3f709',
     storageBucket: 'imagesia-3f709.appspot.com',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBVIbms_QxdDKXKNXNVa6g5pKneVuMlHrA',
+    apiKey: '',
     appId: '1:475050435412:ios:20600fafcd8c9ade5b9ec1',
     messagingSenderId: '475050435412',
     projectId: 'imagesia-3f709',
